@@ -11,4 +11,8 @@
  - Vetores e Objetos
  
  #### Aula 4:
- Estruturas condicionais e estruturas de repetição
+ - Estruturas condicionais e estruturas de repetição
+
+ #### Aula 5:
+ - Funções e suas particularidades
+  
