@@ -2,5 +2,11 @@
 
 ### Digital Innovation One
 
-**Instrutora** Diana Martine
+**Instrutora:** Diana Martine
 #### Aula 1:
+ -O que danado é JavaScript?
+#### Aula 2:
+ -Entendendo variáveis e seus valores
+#### Aula 3:
+ -Vetores e Objetos
+ 
