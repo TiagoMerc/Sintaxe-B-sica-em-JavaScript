@@ -15,4 +15,5 @@
 
  #### Aula 5:
  - Funções e suas particularidades
+ - Criando uma calculadora com JavaScript
   
